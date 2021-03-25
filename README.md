@@ -15,4 +15,4 @@ Following are the topics I learnt and coded for thise course:
 7. K-means clustering, PCA - Closest centroid means, principal component analysis
 8. Anamoly Detection, Recommender Systems - Collaborative filtering
 
-The assignment descriptions are included in the directory of each assignment.
+The assignment descriptions are available in the directory of each assignment.
